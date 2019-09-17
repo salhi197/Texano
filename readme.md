@@ -55,7 +55,7 @@ php artisan serve
 
 
 ## Author
-Anwar Benhamada & Salhi Haider Ali
+Anwar Benhamada & [Salhi Haider Ali](https://www.linkedin.com/in/haider-ali-salhi-632099178/)
 
 ## Version
 
