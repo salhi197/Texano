@@ -23,8 +23,16 @@ php artisan migrate
 
 # If you get an error about an encryption key
 php artisan key:generate
+
+# run the server 
+php artisan serve
+
 ``````
 
+
+## Languages
+* English
+* German
 
 
 ## Documentation & Blog
@@ -32,11 +40,22 @@ php artisan key:generate
 *  The Blog for the Texano is located [Here](https://blog.texano.com).
 
 ## Prerequisites
+* Composer: 1.6.5 or higher.
+* PHP version any of 5.6, 7.0, 7.1
+* MYSQL 5 OR >
+* APACHE
+* MOD_REWRITE
+* PHP Extensions cURL & Mcrypt should be enabled
+* PHP GD Extension
+* PHP ZIP Extension
+* PHP settings allowurlfopen enabled
+* PHP JSON Support
+* PHP XML Support
+* PHP OpenSSL
 
-* PHP >= 7.3.1
 
 ## Author
-Anwar Benhamada
+Anwar Benhamada & Salhi Haider Ali
 
 ## Version
 
