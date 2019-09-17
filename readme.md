@@ -1,4 +1,4 @@
-<p align="center"><img src="http://texano.gh-sh-tech.com/img/logo_new.png"></p>
+<p align="center"><img src="public/img/logo_new.png"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
